@@ -1,4 +1,7 @@
 # Bread
+
+OPTIMIZATION GUIDE
+
 🖥️ 1. Configuração de Energia e Sistema:
 Plano de Energia Customizado (Máxima Performance Real):
 
