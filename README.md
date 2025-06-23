@@ -204,6 +204,7 @@ VSync: Off
 Texture Filtering Quality: High Performance
 
 🎯 10. Extras:
+
 Desative SysMain, Prefetch, Superfetch
 
 👉 Já abordado.
