@@ -29,8 +29,11 @@ Copiar
 Editar
 
 Get-AppxPackage *xbox* | Remove-AppxPackage
+
 Get-AppxPackage *cortana* | Remove-AppxPackage
+
 Get-AppxPackage *bing* | Remove-AppxPackage
+
 Get-AppxPackage *solitaire* | Remove-AppxPackage
 
 Desativar Telemetria via Regedit:
